@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fourgospelsfromm00whit_0229.png"; bbox 0 0 2794 3276; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1312 762 2039 985">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1312 762 2039 985">
+     <span class='ocr_line' id='line_1_1' title="bbox 1312 762 2039 861; baseline 0.01 -20"><span class='ocrx_word' id='word_1_1' title='bbox 1312 762 1654 861; x_wconf 59' lang='lat' dir='ltr'>universim</span> <span class='ocrx_word' id='word_1_2' title='bbox 1684 765 1747 845; x_wconf 70' lang='grc' dir='ltr'>οἱ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1780 766 2039 848; x_wconf 70' lang='lat' dir='ltr'>Torento</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1555 886 1801 985; baseline 0.016 -21"><span class='ocrx_word' id='word_1_4' title='bbox 1555 886 1801 985; x_wconf 74' lang='lat' dir='ltr'>[ibrary</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1331 1259 1698 2184">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1331 1259 1698 2184">
+     <span class='ocr_line' id='line_1_3' title="bbox 1345 1259 1687 1324; baseline 0.009 -3"><span class='ocrx_word' id='word_1_5' title='bbox 1345 1259 1465 1322; x_wconf 84' lang='lat' dir='ltr'>Do</span> <span class='ocrx_word' id='word_1_6' title='bbox 1509 1260 1687 1324; x_wconf 84' lang='grc' dir='ltr'>Νοτ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1335 1381 1698 1466; baseline 0.006 -2"><span class='ocrx_word' id='word_1_7' title='bbox 1335 1381 1698 1466; x_wconf 86' lang='lat' dir='ltr'>REMOVE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1339 1546 1511 1608; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 1339 1546 1511 1608; x_wconf 80' lang='lat' dir='ltr'>THE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1339 1689 1577 1753; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 1339 1689 1577 1753; x_wconf 77' lang='lat' dir='ltr'>cARD</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1332 1833 1574 1896; baseline 0 -1"><span class='ocrx_word' id='word_1_10' title='bbox 1332 1833 1574 1896; x_wconf 83' lang='lat' dir='ltr'>FRoM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 1333 1977 1529 2040; baseline 0.01 -2"><span class='ocrx_word' id='word_1_11' title='bbox 1333 1977 1529 2040; x_wconf 69' lang='lat' dir='ltr'>THu3</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 1331 2120 1676 2184; baseline 0.003 -2"><span class='ocrx_word' id='word_1_12' title='bbox 1331 2120 1676 2184; x_wconf 86' lang='lat' dir='ltr'>POCKET</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 990 640 2124 2724">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 990 640 2124 2724">
+     <span class='ocr_line' id='line_1_10' title="bbox 990 640 2124 2724; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 990 640 2124 2724; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
